@@ -1,0 +1,4 @@
+[submodule "week1 baseball"]
+	path = week1 baseball
+	url = https://github.com/halfmoon-mind/java-baseball-6.git
+	branch = halfmoon-mind
